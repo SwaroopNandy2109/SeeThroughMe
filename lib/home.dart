@@ -32,8 +32,8 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     super.initState();
-    //timer = Timer.periodic(Duration(seconds: 10), (Timer t) => getLocation());
-    getLocation();
+    timer = Timer.periodic(Duration(minutes: 10), (Timer t) => getLocation());
+    //getLocation();
     loadAllAsync();
   }
 
