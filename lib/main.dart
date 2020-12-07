@@ -1,3 +1,4 @@
+import 'package:SeeThroughMe/login_form.dart';
 import 'package:flutter/material.dart';
 import 'package:SeeThroughMe/home.dart';
 
@@ -16,6 +17,6 @@ class SeeThroughMeApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: HomePage());
+        home: LoginForm());
   }
 }

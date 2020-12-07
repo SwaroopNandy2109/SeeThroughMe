@@ -46,7 +46,6 @@ class BoundingBox extends StatelessWidget {
           h = _h * scaleH;
           if (_y < difH / 2) h -= (difH / 2 - _y) * scaleH;
         }
-
         flutterTts.speak(detectedClass);
 
         return Positioned(
