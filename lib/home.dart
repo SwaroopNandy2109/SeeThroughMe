@@ -33,7 +33,7 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     timer = Timer.periodic(Duration(minutes: 10), (Timer t) => getLocation());
-    //getLocation();
+    getLocation();
     loadAllAsync();
   }
 
