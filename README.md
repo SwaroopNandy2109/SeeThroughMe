@@ -11,7 +11,8 @@
 - White-crane stick job made-easy.
 - User friendly.
 
-![image](https://media.discordapp.net/attachments/775820994271117312/790086692219518976/Screenshot_20201220-104111.jpg?width=329&height=670)&nbsp;&nbsp;&nbsp;&nbsp;![image](https://media.discordapp.net/attachments/775820994271117312/790086692459642900/Screenshot_20201220-104539.jpg?width=329&height=670)
+![image](https://media.discordapp.net/attachments/775820994271117312/790086692219518976/Screenshot_20201220-104111.jpg?width=329&height=670)
+![image](https://media.discordapp.net/attachments/775820994271117312/790086692459642900/Screenshot_20201220-104539.jpg?width=329&height=670)
 ![image](https://media.discordapp.net/attachments/775820994271117312/790086692852727848/Screenshot_20201220-104710.jpg?width=329&height=670)
 ![image](https://media.discordapp.net/attachments/775820994271117312/790086693285396490/Screenshot_20201220-104742.jpg?width=329&height=670)
 ![image](https://media.discordapp.net/attachments/775820994271117312/790086693729599508/Screenshot_20201220-105130.jpg?width=329&height=670)
